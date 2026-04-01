@@ -3,72 +3,72 @@
     {
       "nome": "João",
       "idade": 20,
-      "ano de nascimento": [2006],
-      "altura ": [1.50],
-      "massa ": [62]
+      "ano de nascimento": 2006,
+      "altura ": 1.50,
+      "massa ": 62
     },
     {
       "nome": "Maria",
       "idade": 22,
-      "ano de nascimento": [2004],
-      "altura ": [1.60],
-      "massa ": [64]
+      "ano de nascimento": 2004,
+      "altura ": 1.60,
+      "massa ": 64
     },
     {
       "nome": "Pedro",
       "idade": 19,
-      "ano de nascimento": [2007],
-      "altura ": [1.65],
-      "massa ": [70]
+      "ano de nascimento": 2007,
+      "altura ": 1.65,
+      "massa ": 70
     },
     {
       "nome": "Ana",
       "idade": 21,
-      "ano de nascimento": [2005],
-      "altura ": [1.70],
-      "massa ": [65]
+      "ano de nascimento": 2005,
+      "altura ": 1.70,
+      "massa ": 65
     },
     {
       "nome": "Lucas",
       "idade": 23,
-      "ano de nascimento": [2003],
-      "altura ": [1.75],
-      "massa ": [75]
+      "ano de nascimento": 2003,
+      "altura ": 1.75,
+      "massa ": 75
     },
     {
       "nome": "Carla",
       "idade": 24,
-      "ano de nascimento": [2002],
-      "altura ": [1.80],
-      "massa ": [75]
+      "ano de nascimento": 2002,
+      "altura ": 1.80,
+      "massa ": 75
     },
     {
       "nome": "Rafael",
       "idade": 20,
-      "ano de nascimento": [2006],
-      "altura ": [1.75],
-      "massa ": [70]
+      "ano de nascimento": 2006,
+      "altura ": 1.75,
+      "massa ": 70
     },
     {
       "nome": "Gabriel",
       "idade": 26,
-     "ano de nascimento": [2000],
-      "altura ": [1.75],
-      "massa ": [68]
+     "ano de nascimento": 2000,
+      "altura ": 1.75,
+      "massa ": 68
     },
     {
       "nome": "Beatriz",
       "idade": 18,
-      "ano de nascimento": [2008],
-      "altura ": [1.65],
-      "massa ": [59]
+      "ano de nascimento": 2008,
+      "altura ": 1.65,
+      "massa ": 59
     },
     {
       "nome": "Felipe",
       "idade": 23,
-      "ano de nascimento": [2003],
-      "altura ": [1.70],
-      "massa ": [60]
+      "ano de nascimento": 2003,
+      "altura ": 1.70,
+      "massa ": 60
     }
   ]
 }
